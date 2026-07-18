@@ -1,1 +1,20 @@
-<h1 color="red"; font-size="35px";>Docker Server With Python Backend And Node Frontend</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+        <style> 
+        h1{
+            color: red;
+            font-size: 36px;
+            background: black;
+        }
+        </style>
+</head>
+
+<body>
+    <h1>Docker sever with python Backend and node Frontend!❤️</h1>
+
+</body>
+</html>
